@@ -1,0 +1,1 @@
+SELECT COUNT(DISTINCT town_to) AS town_count FROM Trip

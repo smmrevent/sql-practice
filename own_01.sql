@@ -1,0 +1,1 @@
+SELECT * FROM Trip ORDER BY time_out DESC

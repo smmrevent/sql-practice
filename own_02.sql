@@ -1,0 +1,1 @@
+SELECT DISTINCT town_from FROM Trip ORDER BY town_from
