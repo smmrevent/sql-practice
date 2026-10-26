@@ -1,0 +1,2 @@
+SELECT * FROM test
+WHERE NOT price > 100;

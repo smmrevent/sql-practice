@@ -1,0 +1,2 @@
+SELECT * FROM test
+WHERE name IS NOT NULL AND price IS NOT NULL;

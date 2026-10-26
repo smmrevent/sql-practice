@@ -1,0 +1,2 @@
+SELECT COUNT(*) FROM test
+WHERE price IS NULL OR name IS NULL;

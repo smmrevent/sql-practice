@@ -1,0 +1,1 @@
+SELECT AVG(COALESCE(price, 0)) AS average FROM test;

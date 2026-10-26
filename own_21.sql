@@ -1,0 +1,5 @@
+SELECT * FROM test
+WHERE price = NULL;
+
+SELECT * FROM test
+WHERE price IS NULL;

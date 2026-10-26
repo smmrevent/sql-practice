@@ -1,0 +1,1 @@
+SELECT id, COALESCE(name, 'unknown') AS name, price FROM test;

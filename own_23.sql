@@ -1,0 +1,1 @@
+SELECT COUNT(*), COUNT(name), COUNT(price) FROM test;
