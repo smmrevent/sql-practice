@@ -1,0 +1,1 @@
+SELECT MIN(time_out), MAX(time_out) FROM Trip
